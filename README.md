@@ -48,6 +48,8 @@
 
 --- 
 
+РЕШЕНИЕ:
+
 Vector Role:
 https://github.com/BellQeen/vector-role
 
